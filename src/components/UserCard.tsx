@@ -66,7 +66,7 @@ return (
 
           <div className="relative z-3">
             <div className="relative mx-auto mt-[5%] bg-white rounded-full w-[150px] h-[150px] border border-2 border-white">
-              <img src="../public/image.png" alt="User Avatar" className="w-full h-full rounded-full" />
+              <img src="https://i.ibb.co/Kc44VP1W/image.png" alt="User Avatar" className="w-full h-full rounded-full" />
               <FaPlus className="absolute bottom-4 right-1 text-[#545454] bg-white rounded-full p-1 w-6 h-6" />
             </div>
             <div>
